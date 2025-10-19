@@ -4,10 +4,8 @@ Accident Epics is a simple project designed to help users track, manage, and ana
 
 ## Who is it for?
 
-- **Individuals** who want to keep a personal log of accidents or safety incidents.
-- **Small organizations** (like clubs, local businesses, or community groups) needing an easy way to record and review accidents.
-- **Safety teams** who want a quick overview or basic analysis for accident prevention.
-
+- **Local Police Stations** needing an easy way to record and review accidents. or safety incidents.
+- 
 ## Features
 
 - Record accident reports with essential details.
